@@ -1,0 +1,1 @@
+print("Bienvenue sur PropTech CI Core !")
